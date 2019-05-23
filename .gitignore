@@ -76,3 +76,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 AR_Affordances/DerivedDataCache/Boot.ddc
+AR_Affordances/Intermediate/
+AR_Affordances/Binaries/
